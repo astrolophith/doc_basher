@@ -1,0 +1,28 @@
+Bash Scripting:
+  - Script Structure: Shebang (#!/bin/bash), Comments (#), Exit codes ($?)
+  - Variables: Variable declaration and usage, Local vs. global variables, Special variables ($0, $1, $#, $@, $*)
+  - Input and Output: Reading input (read), Redirecting output (>, >>, <, |), Here documents (<<)
+  - Functions: Defining and calling functions, Passing arguments to functions, Return values
+  - Sudo: Using sudo in Bash Scripts
+  - Sudo Privilege: Checking for sudo privilege
+  - Operators: Operator Precedence
+  - Whitespace: Whitespace and Line breaks
+  - Readibility: Line continuation, Grouping, Case statements, Funciotns
+
+Command Execution:
+  - Substitution Quoting: Quoting
+
+Conditionals:
+  - If Statements: Basic if syntax, if-else and elif, Nested conditionals
+  - Test Operators: File tests (-e, -f, -d), String comparisons (=, !=, -z, -n), Arithmetic comparisons (-eq, -ne, -gt, -lt)
+  - Case Statements: Syntax and usage, Pattern matching
+
+Loops:
+  - For Loops: Iterating over lists, C-style for loops
+  - While Loops: Basic while syntax, Infinite loops and breaking out
+  - Until Loops: Syntax and usage
+  - Loop Control: break and continue
+
+Arrays:
+  - Array Basics: Declaring arrays, Accessing array elements, Array length (${#array[@]})
+  - Array Operations: Adding and removing elements, Iterating over arrays, Associative arrays (Bash 4+)
