@@ -6,7 +6,7 @@ AI generated Bash script reference
 - Generate topics MD files using gen_md_files.sh
 - Generate Index links with gen_index.sh
 
-## [Topics Index](https://github.com/astrolophith/bash_aidocs/blob/main/index.md)
+## [Topics Index](https://github.com/astrolophith/bash_aidocs/blob/main/Bash_Scripting/index.md)
 
 ---
 
