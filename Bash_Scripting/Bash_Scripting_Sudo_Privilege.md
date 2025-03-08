@@ -1,9 +1,9 @@
 # Bash Scripting: Sudo Privilege
 
 ## Details
-- Checking for sudo privilege
+Checking for sudo privilege
 
-## It's important to differentiate between:
+### It's important to differentiate between:
 
 * **Checking if a user *can* use sudo:** This means they are in the sudoers file or a relevant group.
 * **Checking if a user can use sudo *without a password*:** This means their sudo permissions are configured with the `NOPASSWD` option.

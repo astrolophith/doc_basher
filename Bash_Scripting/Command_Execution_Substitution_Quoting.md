@@ -1,7 +1,7 @@
 # Command Execution: Substitution Quoting
 
 ## Details
-- Quoting
+Quoting
 
 The double quotes in `[[ "$(Expression)" -ne 0 ]]` are crucial for several reasons, primarily to prevent issues related to:
 

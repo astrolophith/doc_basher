@@ -1,9 +1,9 @@
 # Bash Scripting: Sudo
 
 ## Details
-- Using sudo in Bash Scripts
+Using sudo in Bash Scripts
 
-## Best Practices for Using sudo in Bash Scripts
+### Best Practices for Using sudo in Bash Scripts
 
 Using `sudo` in Bash scripts elevates the script's privileges, which can be risky if not handled carefully. Here are some best practices to minimize security risks and maintain script reliability:
 

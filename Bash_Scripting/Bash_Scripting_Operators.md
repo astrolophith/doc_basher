@@ -1,7 +1,7 @@
 # Bash Scripting: Operators
 
 ## Details
-- Operator Precedence
+Operator Precedence
 
 Bash conditional operator precedence dictates the order in which operators are evaluated in compound conditional expressions. Here's a concise overview:
 
@@ -34,4 +34,4 @@ Bash conditional operator precedence dictates the order in which operators are e
 * `&&` is evaluated before `||`.
 * `!` has a very high precedence.
 * In the context of the `[[ ]]` test, operators like `&&` and `||` behave more predictably than in the older `[ ]` test.
-* The order of operations is very important when using short circuit evaluation.
+* The order of operations is very important when using short circuit evaluation.- Operator Precedence

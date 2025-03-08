@@ -1,4 +1,4 @@
 # Loops: Until Loops
 
 ## Details
-- Syntax and usage
+Syntax and usage

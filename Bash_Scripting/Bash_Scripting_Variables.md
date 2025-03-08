@@ -1,7 +1,7 @@
-# Bash Scripting: Whitespace
+# Bash Scripting: Variables
 
 ## Details
-- Whitespace and Line breaks
+Variable declaration and usage, Local vs. global variables, Special variables ($0, $1, $#, $@, $*)
 
 Using whitespace and line breaks for Bash script readability and maintainability. Here's an overview of best practices:
 

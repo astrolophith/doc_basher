@@ -1,10 +1,7 @@
 # Bash Scripting: Readibility
 
 ## Details
-- Line continuation
-- Grouping
-- Case statements
-- Funciotns
+Line continuation, Grouping, Case statements, Funciotns
 
 You can improve the readability of long conditional statements in Bash using several techniques, including line continuation with `\` and other methods that avoid line breaks.
 

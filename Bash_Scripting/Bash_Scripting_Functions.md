@@ -1,11 +1,9 @@
 # Bash Scripting: Functions
 
 ## Details
-- Defining and calling functions
-- Passing arguments to functions
-- Return values
+Defining and calling functions, Passing arguments to functions, Return values
 
-## Bash Function Syntax Rules and Best Practices
+### Bash Function Syntax Rules and Best Practices
 
 ## Function Syntax
 

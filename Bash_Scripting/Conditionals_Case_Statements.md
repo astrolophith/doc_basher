@@ -1,5 +1,4 @@
 # Conditionals: Case Statements
 
 ## Details
-- Syntax and usage
-- Pattern matching
+Syntax and usage, Pattern matching
