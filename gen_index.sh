@@ -2,7 +2,8 @@
 
 yaml_file="topics.yaml"
 index_file="index.md"
-base_url="https://github.com/astrolophith/doc_basher/blob/main" #Can be command line argument.
+# Make a command line argument.
+base_url="https://github.com/astrolophith/doc_basher/blob/main"
 
 # Check if YAML file exists and is readable
 if [[ ! -f "$yaml_file" ]]; then
