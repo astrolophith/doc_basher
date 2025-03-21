@@ -1,5 +1,7 @@
 # doc_basher
-AI generated Bash script reference
+Generate Documentation Topics and Index with Bash
+
+My example documentations is AI generated. 
 
 ## Instructions
 - Create a list of topics in topics.yaml
